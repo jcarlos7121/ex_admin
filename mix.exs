@@ -60,7 +60,7 @@ defmodule ExAdmin.Mixfile do
       {:decimal, "~> 1.0"},
       {:phoenix, "~> 1.2"},
       {:phoenix_html, "~> 2.6"},
-      {:ecto, "~> 2.1"},
+      {:ecto, "~> 3.0"},
       {:phoenix_ecto, "~> 4.2"},
       {:postgrex, "~> 0.13", only: :test},
       {:floki, "~> 0.8", only: :test},
